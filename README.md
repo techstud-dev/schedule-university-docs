@@ -5,7 +5,7 @@
   <h1>techstud.dev</h1>
 </div>
 
-URL деплоя: [Not active](https://mrnikamilon.github.io/obsidian-quartz-nikamilon-template)
+URL деплоя:[link](https://techstud-dev.github.io/schedule-university-docs/)
 
 > Шаблон для размещения вашего блокнота Obsidian на страницах GitHub с развертыванием CI.
 ### 🛠  Технический стек
